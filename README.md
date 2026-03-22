@@ -48,14 +48,16 @@ When I'm not deep into code or managing GitHub branches, you can usually find me
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wesamd0&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesamd0&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
+
+### 🦊 GitLab Stats
+
+<p align="center">
+  <img src="https://gitlab-readme-stats-two.vercel.app/api?username=wesamd&show_icons=true&theme=radical" alt="GitLab Stats" />
+</p>
 
 ### 📫 Let's Connect!
 
