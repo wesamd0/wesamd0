@@ -79,8 +79,8 @@ When I'm not deep into code or managing GitHub branches, you can usually find me
 
 ### 🦊 GitLab Stats
 
-<p align="center"> 
-  <img src="https://gitlab-readme-stats-two.vercel.app/api?username=wesamd&show_icons=true&theme=radical" alt="GitLab Stats" />
+<p align="center">
+  <img src="https://gitlab-readme-stats-two.vercel.app/api?username=wesamd&show_icons=true&theme=radical&v=1" alt="GitLab Stats" />
 </p>
 
 ### 📫 Let's Connect!
